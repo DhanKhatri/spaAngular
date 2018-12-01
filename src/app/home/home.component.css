@@ -1,0 +1,30 @@
+h1{
+    color:purple;
+}
+.container{
+  height:90%;
+  widows: 95%;
+  padding:5px;
+  margin-left:15px;  
+}
+.img-thumbnail{
+    height:95%;
+    width:98%;
+    min-height:350px;
+}
+
+.col-sm-4{
+    background-color: lightgrey;
+    padding:5px;
+    padding-bottom: 29px;
+    text-align:center;
+}
+#row1{
+    background-color:lightcoral;
+}
+#row2{
+    background-color:lightcoral;
+}
+#row3{
+    background-color:lightcoral;
+}

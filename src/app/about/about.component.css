@@ -1,0 +1,18 @@
+#box{
+  height:550px;
+  width:90%;
+  border:15px solid rgba(214, 144, 37, 0.466);
+  background-color:black;
+  color:whitesmoke;
+  margin:5px;
+  
+}
+.col-md-4{
+  border:2px solid grey;
+  background-color:lightgrey;
+
+}
+.row{
+  margin:5px;
+  padding:4px;
+}

@@ -1,0 +1,21 @@
+.container a{
+   color:orange;
+   font-weight: bolder;
+   font-size:25px;
+
+}
+.container a:hover{
+    color:white;
+    
+}
+.container ul li a{
+    color:white;
+    word-spacing: 10px;
+    font-size: 18px;
+    text-decoration-color:green;
+    font-weight: bold;
+    
+}
+.container ul li a:hover{
+color:orange;
+}
